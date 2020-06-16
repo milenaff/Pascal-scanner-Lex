@@ -1,5 +1,9 @@
 import re
 
+# Autores
+# Ítalo Martins Tomaz Rocha RA: 082170012
+# Milena Ferreira de Paula RA: 082170022
+
 pascal_keys=""
 pascal_code =""
 
